@@ -22,7 +22,7 @@ Equally important, list the sources referred to while creating you static web pa
 5.Push an nginx image to Dockerhub by tagging it with your team number,using a team member's Dockerhub username.  
 An example of such an image is: aditiahuja/Team3.    
 6.Change either index.html or index2.html by adding your team's HTML code.      
-Also, change docker_script.sh to inlude the exact commands used by your team.
+Also, change docker_script.sh to inlude the exact commands used by your team.           
 7.Edit README.md in your fork with a link to the Dockerhub repository.    
 8.Commit your changes and verify that the changes have been added.  
 9.Email me a link to your team repo on the same email ID as last week.   
