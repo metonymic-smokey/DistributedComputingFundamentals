@@ -30,6 +30,7 @@ Also, change docker_script.sh to inlude the exact commands used by your team.
 
 
 
-
+Hey !! This is Team 6
+Team Members: Dheeraj,Aravind,Mansimran,Sanjana
 
 
