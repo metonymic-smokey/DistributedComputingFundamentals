@@ -27,13 +27,13 @@ Also, change docker_script.sh to inlude the exact commands used by your team.
 8.Commit your changes and verify that the changes have been added.  
 9.Email me a link to your team repo on the same email ID as last week.   
 
-**Week 3:**. 
+**Week 3:**.          
 This week's assignment consists of deploying last time's static web page on NGINX locally i.e. instead of the default NGINX content, your web page will be displayed. Create a new folder in your forked repos and add a folder labelled Week 3. In it, create a file, with the commands you have used to do the above. This file will be of the same format as the docker_scripts.sh file last time.
 
-**Submission deadline:  
+**Submission deadline:**.   
 Sunday,15th September, 11:55 PM.**
 
-**Submission:**
+**Submission:**.   
 Same as last week i.e. email me link to updated repo.
 
 
