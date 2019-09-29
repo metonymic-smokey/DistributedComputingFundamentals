@@ -37,6 +37,13 @@ Sunday,15th September, 11:55 PM.**
 Same as last week i.e. email me link to updated repo.
 
 
+**Final Project:**.    
+The final project is deploying an NGINX server using Kubernetes. An additional part of the project could be applying Week 4's knowledge of scaling deployments and/or running more than 1 containers in the same pod.  
+Familiarity with K8s architecture as well as kubectl and its command usage will be required.
+
+**Submission:**.     
+Submission will be the same as last 2 times.
+This will be submitted teamwise and graded individually.
 
 
 
