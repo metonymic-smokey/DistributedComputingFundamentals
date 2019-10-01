@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Service
+metadata:
+  labels:
+    name: nginxservice
+  name: nginxservice
+spec:
+  ports:
+#could be a port number of your choice
+    - port: 82
+  selector:
+    app: nginx
+  type: LoadBalancer
+
