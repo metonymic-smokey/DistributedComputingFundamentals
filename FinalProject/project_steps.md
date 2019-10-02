@@ -12,10 +12,8 @@ The number of replicas given here is 2, it can be changed in the YAML to another
 4.Now create a service, using a command similar to step 2.   
 
 5.Now run `kubectl get services` to check if the service is up and running.   
+The External IP  column there can take some time to appear so keep re trying this command.
 
-6.Head to your browser and check `http://127.0.0.1:82` if you have used port 82.    
-Substitute with whichever port number you have used otherwise.
-
-7.After completion of the project, `kubectl delete service <service-name>` and `kubectl delete rc <nameof replication controller>` can be used for deletion.   
+6.After completion of the project, `kubectl delete service <service-name>` and `kubectl delete rc <nameof replication controller>` can be used for deletion.   
 
 Note: Use your image from the previous week's assignment after pushing to Dockerhub if you want a custom page for NGINX.    
